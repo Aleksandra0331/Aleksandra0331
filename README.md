@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandra
+- 👋 Hi, I’m Aleksandra/Ola
 - 🏢 I work as a Data Analyst
 - 👀 I’m interested in anything related to data, developing my skills and learning German
 - 🌱 I’m currently learning Python and German :)
