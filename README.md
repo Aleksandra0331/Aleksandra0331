@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aleksandra
-- 👀 I’m interested in anything related to data, development of my skills and learning German
+- 🏢 I work as a Data Analyst
+- 👀 I’m interested in anything related to data, developing my skills and learning German
 - 🌱 I’m currently learning Python and German :)
 - 📫 How to reach me: https://www.linkedin.com/in/aleksandrabudziszewska/
 
