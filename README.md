@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandra/Ola
-- 🏢 I work as a Data Analyst
+<!--- 🏢 I work as a Data Analyst --->
 - 👀 I’m interested in anything related to data, developing my skills and learning German
 - 🌱 I’m currently learning Python and German :)
   <!--- 📫 How to reach me: https://www.linkedin.com/in/aleksandrabudziszewska/ --->
